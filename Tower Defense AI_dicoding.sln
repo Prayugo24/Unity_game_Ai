@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EEFD1275-C041-ABBB-A273-683DD3E462CB}") = "Tower Defense AI_dicoding", "Assembly-CSharp-firstpass.csproj", "{C91CBEEE-BD51-3825-8C19-CF866010E7DC}"
+EndProject
+Project("{EEFD1275-C041-ABBB-A273-683DD3E462CB}") = "Tower Defense AI_dicoding", "Assembly-CSharp.csproj", "{B14B1C72-6E8D-3474-A935-DEC835213080}"
+EndProject
+Project("{EEFD1275-C041-ABBB-A273-683DD3E462CB}") = "Tower Defense AI_dicoding", "Assembly-CSharp-Editor-firstpass.csproj", "{F78FC006-CC38-88D2-1D67-EF955C666A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91CBEEE-BD51-3825-8C19-CF866010E7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91CBEEE-BD51-3825-8C19-CF866010E7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91CBEEE-BD51-3825-8C19-CF866010E7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91CBEEE-BD51-3825-8C19-CF866010E7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14B1C72-6E8D-3474-A935-DEC835213080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14B1C72-6E8D-3474-A935-DEC835213080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14B1C72-6E8D-3474-A935-DEC835213080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14B1C72-6E8D-3474-A935-DEC835213080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78FC006-CC38-88D2-1D67-EF955C666A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78FC006-CC38-88D2-1D67-EF955C666A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78FC006-CC38-88D2-1D67-EF955C666A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78FC006-CC38-88D2-1D67-EF955C666A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
